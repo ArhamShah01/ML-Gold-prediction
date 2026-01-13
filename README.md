@@ -46,7 +46,7 @@ The neural network consists of a stacked LSTM architecture designed to prevent o
     ```bash
     pip install pandas numpy matplotlib plotly scikit-learn tensorflow
     ```
-3.  Run the Jupyter Notebook `gold_prediction_using_LSTM.ipynb`.
+3.  Run the Jupyter Notebook `gold_price_lstm.ipynb`.
 
 ## 📈 Results
 The final output visualizes the model's ability to track market trends, displaying the trajectory of predicted prices against actual market values.
